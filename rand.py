@@ -13,3 +13,4 @@ def generate_random_password(length):
 # Example usage: Generate a random password of length 12
 random_password = generate_random_password(12)
 print("Random Password:", random_password)
+print("all done")
